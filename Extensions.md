@@ -28,7 +28,7 @@
       <a href="https://github.com/bariew/yii2-module-cms-module">https://github.com/bariew/yii2-module-cms-module</a>
    </p>
    <h4>Design Patterns</h4>
-   <p><a href="https://github.com/ericmaicon/yii2-repository-pattern">https://github.com/ericmaicon/yii2-repository-patt...</a></p>
+   <p><a href="https://github.com/ericmaicon/yii2-repository-pattern">https://github.com/ericmaicon/yii2-repository-pattern</a></p>
    <p><a href="https://github.com/jlorente/yii2-command-handler">https://github.com/jlorente/yii2-command-handler</a></p>
    <p><a href="https://github.com/jlorente/yii2-activerecord-inheritance">https://github.com/jlorente/yii2-activerecord-inhe...</a></p>
    <h4>CMS</h4>
