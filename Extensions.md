@@ -6,7 +6,7 @@
    <p><a href="https://github.com/nepster-web/yii2-extensions-installer">https://github.com/nepster-web/yii2-extensions-ins...</a></p>
    <h4>Packagist API (<a href="https://packagist.org/">https://packagist.org/</a>)</h4>
    <p>
-      <a href="https://github.com/2amigos/yii2-packagist-component">https://github.com/2amigos/yii2-packagist-componen...</a>
+      <a href="https://github.com/2amigos/yii2-packagist-component">https://github.com/2amigos/yii2-packagist-component</a>
    </p>
    <h4>CookBook</h4>
    <p>
