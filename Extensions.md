@@ -10,7 +10,7 @@
    </p>
    <h4>CookBook</h4>
    <p>
-      <a href="https://github.com/samdark/yii2-cookbook/blob/master/book/response-formats.md">https://github.com/samdark/yii2-cookbook/blob/mast...</a>
+      <a href="https://github.com/samdark/yii2-cookbook/">https://github.com/samdark/yii2-cookbook/blob/mast...</a>
    </p>
    <h4>Coding standards</h4>
    <p>
