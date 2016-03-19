@@ -1,3 +1,6 @@
+# A lot of extensions, widgets and other for Yii2 Framework. 
+# Список расширений, виджетов и всего прочего для Yii2 Framework.
+
 <article class="content">
     <h4>Composer package browser</h4>
     <p>
