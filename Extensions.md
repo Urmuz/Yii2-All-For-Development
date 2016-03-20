@@ -37,6 +37,9 @@ A lot of extensions, widgets and other for Yii2 Framework. <br>
     <p><a href="https://github.com/jlorente/yii2-activerecord-inheritance">https://github.com/jlorente/yii2-activerecord-inheritance</a></p>
     <h4>CMS</h4>
     <p>
+        <a href="https://github.com/luyadev/luya">https://github.com/luyadev/luya</a>
+    </p>
+    <p>
         <a href="https://github.com/djfly/dcms2">https://github.com/djfly/dcms2</a>
     </p>
     <p>
