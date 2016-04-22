@@ -1591,6 +1591,9 @@ A lot of extensions, widgets and other for Yii2 Framework. <br>
     </p>
     <h4>Event manager</h4>
     <p>
+        <a href="https://github.com/loveorigami/yii2-plugins-system">https://github.com/loveorigami/yii2-plugins-system</a>
+    </p>
+    <p>
         <a href="https://github.com/bariew/yii2-event-component">https://github.com/bariew/yii2-event-component</a>
     </p>
     <p><a href="https://github.com/ton3ds/yii2-3ds-events-modules">https://github.com/ton3ds/yii2-3ds-events-modules</a></p>
