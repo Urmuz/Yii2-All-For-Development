@@ -1747,6 +1747,7 @@ A lot of extensions, widgets and other for Yii2 Framework. <br>
         <a href="https://github.com/artkost/yii2-qa">https://github.com/artkost/yii2-qa</a>
     </p>
     <h4>Notifications/Alerts</h4>
+    <p><a href="https://github.com/loveorigami/yii2-notification-wrapper">https://github.com/loveorigami/yii2-notification-wrapper<br /></a></p>
     <p><a href="https://github.com/HubSpot/vex">https://github.com/demogorgorn/yii2-vex-dialog<br /></a></p>
     <p>
         <a href="https://github.com/yii2mod/yii2-sweet-alert">https://github.com/yii2mod/yii2-sweet-alert</a>
