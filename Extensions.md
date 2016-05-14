@@ -839,6 +839,9 @@ A lot of extensions, widgets and other for Yii2 Framework. <br>
     <p>
         <a href="https://github.com/amstr1k/yii2-geography">https://github.com/amstr1k/yii2-geography</a>
     </p>
+    <p>
+        <a href="https://github.com/lembadm/yii2-geodb">https://github.com/lembadm/yii2-geodb</a>
+    </p>
     <h4>Date picker (JS)</h4>
     <p>
         <a href="https://github.com/yiidoc/yii2-datepicker">https://github.com/yiidoc/yii2-datepicker</a>
