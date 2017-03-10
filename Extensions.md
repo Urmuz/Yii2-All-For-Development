@@ -1893,7 +1893,7 @@ A lot of extensions, widgets and other for Yii2 Framework. <br>
     </p>
     <h4>RabbitMQ</h4>
     <p>
-        <a href="https://github.com/iviu96afa/yii2-amqp">https://github.com/iviu96afa/yii2-amqp</a>
+        <a href="https://github.com/devmustafa/yii2-amqp">https://github.com/devmustafa/yii2-amqp</a>
     </p>
     <h4>Chat</h4>
     <p>
