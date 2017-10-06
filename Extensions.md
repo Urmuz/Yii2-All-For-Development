@@ -1312,6 +1312,9 @@ A lot of extensions, widgets and other for Yii2 Framework. <br>
         <a href="https://github.com/iJackUA/yii2-sharelinks-widget">https://github.com/iJackUA/yii2-sharelinks-widget</a>
     </p>
     <p><a href="https://github.com/gustarus/yii2-share_links">https://github.com/gustarus/yii2-share_links</a></p>
+    <p>
+        <a href="https://github.com/yiimaker/yii2-social-share">https://github.com/yiimaker/yii2-social-share</a>
+    </p>
     <h4>Vardump</h4>
     <p><a href="https://github.com/iSynth/yii2-prettydump">https://github.com/iSynth/yii2-prettydump</a></p>
     <h4>Menu</h4>
